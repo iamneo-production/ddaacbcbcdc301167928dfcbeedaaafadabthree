@@ -1,0 +1,15 @@
+# Ignore Testcase Files
+junit
+karma
+react
+puppeteer
+screenshots
+shell
+nunit
+nodejest
+
+# Ignore node modules
+node_modules
+
+# ignore done file
+done
