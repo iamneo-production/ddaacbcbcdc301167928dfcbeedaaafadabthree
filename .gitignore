@@ -10,6 +10,7 @@ nodejest
 
 # Ignore node modules
 node_modules
+.gitignore
 
 # ignore done file
 done
