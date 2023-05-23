@@ -41,5 +41,4 @@ console.log("DNA")
 console.log("Naveen")
 console.log("gopi")
 console.log("Naveen")
-console.log("gopi")
-console.log("Naveen")
+
