@@ -75,4 +75,7 @@ console.log('abc')
 console.log('abc')
 console.log('abc')
 console.log('abc')
-for
+for (let index = 0; index <100; index++) {
+    consolelog("Naveen")
+    
+}
