@@ -45,11 +45,11 @@ console.log("Naveen")
 console.log("gopi")
 console.log("Naveen")
 console.log("gopi")
-console.log("Naveen")console.log("gopi")
-console.log("Naveen")console.log("gopi")
-console.log("Naveen")console.log("gopi")
-console.log("Naveen")console.log("gopi")
-console.log("Naveen")console.log("gopi")
+console.log("Naveen")
+console.log("Naveen")
+console.log("Naveen")
+console.log("Naveen")
+console.log("Naveen")
 console.log("Naveen")
 
 
@@ -77,5 +77,4 @@ console.log('abc')
 console.log('abc')
 for (let index = 0; index <100; index++) {
     consolelog("Naveen")
-    
 }
